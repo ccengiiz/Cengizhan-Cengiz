@@ -1,4 +1,4 @@
-# Title: Simulation Floating Offshore Wind Installation Operations – Simulation Source Code
+# Title: Simulating Floating Offshore Wind Installations – Simulation Source Code
 Authors: Cengizhan Cengiz and Matthew A. Lackner
 Author ORCID Identifier: https://orcid.org/0009-0006-8191-581X
 Author Email: ccengiz@umass.edu
